@@ -1,0 +1,6 @@
+langchain
+langchain[google-genai]
+dotenv
+langchain-google-genai
+langchain-huggingface
+streamlit
