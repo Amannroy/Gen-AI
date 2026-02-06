@@ -4,3 +4,6 @@ dotenv
 langchain-google-genai
 langchain-huggingface
 streamlit
+pydantic
+typing
+langchain-groq
